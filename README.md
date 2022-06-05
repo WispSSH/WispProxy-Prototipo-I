@@ -11,6 +11,12 @@ _ _ _ _ ____ ___    ___  ____ ____ _  _ _   _
 
 ## Instalação
 
+Aplicativo Necessario (Android)
+
+[Termux](https://play.google.com/store/apps/details?id=com.termux&hl=pt_BR&gl=US)
+
+
+
 Dependencias
 
 ```bash
