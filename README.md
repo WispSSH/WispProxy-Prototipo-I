@@ -16,7 +16,7 @@ pip install datetime
 Termux (Instalador)
 
 ```bash
-pkg update && pkg upgrade -y && pkg install python && pkg install wget && pip install requests && pip install datetime && cd $home && mkdir WispProxy && cd WispProxy && wget https://github.com/WispSSH/WispProxy-Prototipo-I/blob/main/wispproxy.py?raw=true && python wispproxy.py
+pkg update && pkg upgrade -y && pkg install python && pkg install wget && pip install requests && pip install datetime && cd $home && mkdir WispProxy && cd WispProxy && git clone https://github.com/WispSSH/WispProxy-Prototipo-I.git && rm README.md && python wispproxy.py
 ```
 
 ## Demonstrações
